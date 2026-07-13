@@ -216,3 +216,37 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Python
+__pycache__/
+*.py[cod]
+
+# IDE
+.vscode/
+.idea/
+.spyproject/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Private data
+data/
+private_data/
+real_data/
+exports/
+
+# Ignore all Excel files...
+*.xlsx
+
+# ...except the public sample files
+!sample_data/google_ads_sample.xlsx
+!sample_output/sample_dashboard.xlsx
+
+# Local outputs
+output/
+reports/
