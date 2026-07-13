@@ -1,2 +1,4 @@
 # google-ads-keyword-performance-analyzer
-A Python-based decision support system for evaluating Google Ads keyword performance using AHP, continuous KPI scoring, sensitivity analysis, and automated Excel dashboards.
+Google Ads Keyword Performance Analyzer is a Python-based decision support system developed to evaluate keyword performance using multi-criteria decision analysis.
+
+The project combines continuous KPI scoring, Analytic Hierarchy Process (AHP), sensitivity analysis, and automated Excel dashboard generation to support data-driven keyword evaluation.
